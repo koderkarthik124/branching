@@ -1,5 +1,8 @@
-class file1{
-    public static void main(String[] args){
+class file1 {
+    public static void main(String[] args) {
         System.out.println("file1.java");
+        System.out.println("**********************");
+        System.out.println("updated code");
     }
+
 }
